@@ -8,7 +8,10 @@ A simple recipe website built as part of [The Odin Project](https://www.theodinp
 - Individual recipe pages with ingredients and steps
 - Simple and semantic HTML structure
 
-## getting Started
+## Live Demo
+👉 [View the page here](https://shenkrad.github.io/odin-recipes/)  
+
+## Getting Started
 
 1. Clone the repository:
  ```bash
